@@ -2,8 +2,6 @@
 - Sou o Augusto Camarano.
 - Tenho 22 anos.
 - Moro em São João Del Rei - MG.
-- Gosto de ler (tecnologia, empreendedorismo, desenvolvimento pessoal e motivação), praticar ciclismo (MTB), assistir filmes/séries, sair com os amigos, fotografar e editar fotos.
-- Minha rotina de estudos, atualmente, está focada no Desenvolvimento Web (Front End), no Design e na Edição de Fotos.
 
 <div>
   <a href="https://github.com/eaecamarano">
