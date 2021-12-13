@@ -1,7 +1,7 @@
 # Olá, seja bem  vindo(a) ao meu perfil!
-- Sou o Augusto Camarano.
-- Tenho 22 anos.
-- Moro em São João Del Rei - MG.
+- Augusto Camarano
+- 22 anos
+- São João Del Rei - MG
 
 <div>
   <a href="https://github.com/eaecamarano">
