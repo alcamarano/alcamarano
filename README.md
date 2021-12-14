@@ -1,7 +1,5 @@
 # Olá, seja bem  vindo(a) ao meu perfil!
-- Augusto Camarano
-- 22 anos
-- São João Del Rei - MG
+22𝑦 • 𝑆𝐽𝐷𝑅 - 𝑀𝐺
 
 <div>
   <a href="https://github.com/eaecamarano">
