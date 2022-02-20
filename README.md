@@ -1,4 +1,3 @@
 # Olá, seja bem  vindo(a) ao meu perfil!
-𝐀. 𝐂𝐚𝐦𝐚𝐫𝐚𝐧𝐨<br>
-𝟸𝟸𝚢<br>
-𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚒𝚐𝚗, 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚆𝚎𝚋 (𝙷𝚃𝙼𝙻𝟻 𝚎 𝙲𝚂𝚂𝟹) 𝚎 𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏𝚒𝚊<br>
+## A. Camarano
+Estudante de Design, Desenvolvimento Web (HTML5 e CSS3) e Fotografia.
