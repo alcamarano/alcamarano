@@ -2,9 +2,3 @@
 𝐀. 𝐂𝐚𝐦𝐚𝐫𝐚𝐧𝐨<br>
 𝟸𝟸𝚢<br>
 𝙴𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚍𝚎 𝙳𝚎𝚜𝚒𝚐𝚗, 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚆𝚎𝚋 (𝙷𝚃𝙼𝙻𝟻 𝚎 𝙲𝚂𝚂𝟹) 𝚎 𝙵𝚘𝚝𝚘𝚐𝚛𝚊𝚏𝚒𝚊<br>
-
-<div>
-  <a href="https://github.com/eaecamarano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eaecamarano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaecamarano&layout=compact&langs_count=7&theme=dracula"/>
-</div>
