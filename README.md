@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖖 Olá, meu nome é Augusto Camarano. Sou estudante de <strong>Desenvolvimento Front-End (HTML5, CSS3 e JS)</strong> e <strong>Design</strong>.
+ ✌ Olá, meu nome é Augusto Camarano. Sou estudante de <strong>Desenvolvimento Front-End (HTML5, CSS3 e JS)</strong> e <strong>Design</strong>.
 </p>
 
 <p align="left">
