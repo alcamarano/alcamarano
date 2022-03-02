@@ -11,5 +11,5 @@
 </p>
 <br>
 <a href="https://bit.ly/3EURXwz" alt="Redes Sociais">
-    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://https://bit.ly/3EURXwz"/>
+    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&link=https://https://bit.ly/3EURXwz"/>
 </a>
