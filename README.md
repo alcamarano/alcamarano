@@ -10,6 +10,6 @@
   💼 Ferramentas: <strong>VS Code, Figma, Photoshop, Notion e GitHub.</strong>
 </p>
 <br>
-<a href="https://bit.ly/3EURXwz" alt="Redes Sociais">
-    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&link=https://https://bit.ly/3EURXwz"/>
+<a href="https://eaecamarano.github.io/link-s/" alt="Redes Sociais">
+    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&link=https://eaecamarano.github.io/link-s/"/>
 </a>
