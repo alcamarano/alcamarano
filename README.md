@@ -11,5 +11,5 @@
 </p>
 <br>
 <a href="https://eaecamarano.github.io/link-s/" alt="Redes Sociais">
-    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&link=https://eaecamarano.github.io/bio.links/">
+    <img src="https://img.shields.io/badge/-Redes Sociais-6610F2?style=for-the-badge&link="https://eaecamarano.github.io/bio.links/">
 </a>
