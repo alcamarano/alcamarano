@@ -1,5 +1,5 @@
 <p align="left"> 
- ✌ Olá, meu nome é Augusto L. Camarano. Sou estudante de <strong>Desenvolvimento Front-End</strong>, <strong>Design</strong> e <strong>Edição de Vídeo</strong>.
+ ✌ Olá, meu nome é Augusto L. Camarano. Sou estudante de <strong>Desenvolvimento Front-End</strong> e <strong>Design</strong>.
 </p>
 
 <p align="left">
