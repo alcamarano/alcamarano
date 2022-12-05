@@ -1,12 +1,22 @@
-<p align="left"> 
- ✌ Olá, meu nome é Augusto L. Camarano. Sou estudante de <strong>Desenvolvimento Front-End</strong> e <strong>Design</strong>.
+<h1>💜 Olá, meu nome é Augusto Camarano</h1>
+<p>
+ Sou estudante de <strong>Desenvolvimento Front-End</strong> e <strong>Design</strong>
 </p>
 
-<p align="left">
- ☕ Habilidades: <strong>Lógica de Programação, HTML5, CSS3.</strong>
-</p>
+<h2>🚀 Minhas skills</h2>
+<p>
+ <img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML5">
+ <img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS3">
+ <img width="50" src="https://skillicons.dev/icons?i=js" alt="JS">
+ <img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
+ <img width="50" src="https://skillicons.dev/icons?i=figma" alt="Figma">
+ <img width="50" src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
+</p> 
 
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Photoshop e GitHub.</strong>
+<h2>⭐ Informações sobre minha conta GitHub</h2>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=a-camarano&show_icons=true&locale=pt-br&bg_color=292929&border_color=A044FF&title_color=A044FF&text_color=FFFFFF&icon_color=A044FF&include_all_commits=true&count_private=true" alt="">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-camarano&layout=compact&bg_color=292929&border_color=A044FF&title_color=A044FF&text_color=FFFFFF" align="top" alt="">
 </p>
-<br>
+ 
+ 
