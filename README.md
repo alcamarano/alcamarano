@@ -7,14 +7,21 @@
 </ul>
 
 <h2>🚀 Minhas skills</h2>
-<p>
- <img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML5">
- <img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS3">
- <img width="50" src="https://skillicons.dev/icons?i=js" alt="JS">
- <img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code">
- <img width="50" src="https://skillicons.dev/icons?i=figma" alt="Figma">
- <img width="50" src="https://skillicons.dev/icons?i=ps" alt="Photoshop">
-</p> 
+<ul>
+ <li>Lógica de Programação</li>
+ <li>HTML5</li>
+ <li>CSS3</li>
+ <li>JS</li>
+</ul>
+
+<h2>⚙️ Softwares</h2>
+<ul>
+ <li>Visual Studio Code</li>
+ <li>Figma</li>
+ <li>Photoshop</li>
+ <li>Excel</li>
+ <li>Notion</li>
+</ul>
 
 <h2>⭐ Informações sobre minha conta GitHub</h2>
 <p>
