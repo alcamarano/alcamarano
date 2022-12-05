@@ -1,7 +1,10 @@
 <h1>💜 Olá, meu nome é Augusto Camarano</h1>
-<p>
- Sou estudante de <strong>Desenvolvimento Front-End</strong> e <strong>Design</strong>
-</p>
+<ul>
+ <li>23 anos</li>
+ <li>São João Del Rei - MG</li>
+ <li>Desenvolvedor Front-End</li>
+ <li>Designer</li>
+<ul>
 
 <h2>🚀 Minhas skills</h2>
 <p>
@@ -16,7 +19,5 @@
 <h2>⭐ Informações sobre minha conta GitHub</h2>
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=a-camarano&show_icons=true&locale=pt-br&bg_color=292929&border_color=A044FF&title_color=A044FF&text_color=FFFFFF&icon_color=A044FF&include_all_commits=true&count_private=true" alt="">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-camarano&layout=compact&bg_color=292929&border_color=A044FF&title_color=A044FF&text_color=FFFFFF" align="top" alt="">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-camarano&layout=compact&bg_color=292929&border_color=A044FF&title_color=A044FF&text_color=FFFFFF&locale=pt-br" align="top" alt="">
 </p>
- 
- 
