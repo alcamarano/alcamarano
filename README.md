@@ -1,4 +1,4 @@
-<h1>💜 Olá, meu nome é Augusto Camarano</h1>
+<h1>💜 Olá, meu nome é Augusto L. Camarano</h1>
 <ul>
  <li>23 anos</li>
  <li>São João Del Rei - MG</li>
