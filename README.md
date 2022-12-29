@@ -2,8 +2,6 @@
 <ul>
  <li>23 anos</li>
  <li>São João Del Rei - MG</li>
- <li>Desenvolvedor Front-End</li>
- <li>Designer</li>
 </ul>
 
 <h2>🚀 Minhas skills</h2>
