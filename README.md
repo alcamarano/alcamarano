@@ -19,7 +19,6 @@
  <li>Visual Studio Code</li>
  <li>Figma</li>
  <li>Photoshop</li>
- <li>Excel</li>
  <li>Notion</li>
 </ul>
 
