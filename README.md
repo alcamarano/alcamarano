@@ -2,6 +2,7 @@
 <ul>
  <li>23 anos</li>
  <li>São João Del Rei - MG</li>
+ <li>🚵‍♂️🏃‍♂️💪 Atleta</li>
  <li>📚 Análise e Desenvolvimento de Sistemas</li>
  <li>👨‍💻 Desenvolvedor Front-End</li>
  <li>🎨 UI/UX</li>
