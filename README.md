@@ -15,7 +15,6 @@
  <li>HTML5</li>
  <li>CSS3</li>
  <li>JS</li>
- <li>Excel</li>
 </ul>
 
 <h2>⚙️ Softwares</h2>
@@ -23,8 +22,7 @@
  <li>Visual Studio Code</li>
  <li>Figma</li>
  <li>Photoshop</li>
- <li>Notion</li>
- <li>Excel</li>
+ <li>PyCharm</li>
 </ul>
 
 <h2>⭐ Informações sobre minha conta GitHub</h2>
