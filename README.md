@@ -5,7 +5,7 @@
  <li>🚵‍♂️🏃‍♂️💪 Atleta</li>
  <li>📚 Análise e Desenvolvimento de Sistemas</li>
  <li>👨‍💻 Desenvolvedor Front-End</li>
- <li>🎨 UI/UX</li>
+ <li>🎨 Designer</li>
 </ul>
 
 <h2>🚀 Minhas skills</h2>
