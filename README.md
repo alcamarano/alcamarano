@@ -4,7 +4,7 @@
  <li>São João Del Rei - MG</li>
  <li>🚵‍♂️🏃‍♂️💪 Atleta</li>
  <li>📚 Análise e Desenvolvimento de Sistemas</li>
- <li>👨‍💻 Desenvolvedor Front-End</li>
+ <li>👨‍💻 Dev. Front-End</li>
  <li>🎨 Designer</li>
 </ul>
 
