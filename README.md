@@ -14,15 +14,6 @@
  <li>Python</li>
  <li>HTML5</li>
  <li>CSS3</li>
- <li>JS</li>
-</ul>
-
-<h2>⚙️ Softwares</h2>
-<ul>
- <li>Visual Studio Code</li>
- <li>Figma</li>
- <li>Photoshop</li>
- <li>PyCharm</li>
 </ul>
 
 <h2>⭐ Informações sobre minha conta GitHub</h2>
