@@ -3,4 +3,5 @@
  <li>23 anos</li>
  <li>São João Del Rei - MG</li>
  <li>🚵‍♂️🏃‍♂️💪 Atleta</li>
+ <li>🧑‍💻 Dev. Front-End</li>
 </ul>
