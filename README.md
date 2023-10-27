@@ -4,4 +4,5 @@
  <li>São João Del Rei - MG</li>
  <li>🚵‍♂️🏃‍♂️💪 Atleta</li>
  <li>🧑‍💻 Dev. Front-End</li>
+ <li>🎨 Designer</li>
 </ul>
