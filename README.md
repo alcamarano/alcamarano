@@ -17,9 +17,6 @@
   Acredito que as conexões são uma oportunidade para crescer, aprender e compartilhar experiências. Estou sempre disposto a aprender com novas perspectivas e compartilhar experiências que possam agregar tanto no meu desenvolvimento quanto no de outras pessoas. Vamos nos conectar e trocar ideias!
 </p>
 <p>
-  <a href="https://github.com/alcamarano" target="_blank" title="Github">
-    <img src="https://skillicons.dev/icons?i=github">
-  </a>
   <a href="https://www.linkedin.com/in/alcamarano/" target="_blank" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
