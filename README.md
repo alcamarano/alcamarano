@@ -8,15 +8,19 @@
   Estou desenvolvendo minhas habilidades em HTML, CSS, JavaScript e Python. Além disso, utilizo ferramentas como Visual Studio Code, Figma e Adobe Photoshop.
 </p>
 <p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,figma,vscode,ps">
+</p>
+<p>
   No meu tempo livre, pratico esportes, viajo e adoro descobrir novos lugares. Sou apaixonado por leitura, especialmente sobre desenvolvimento pessoal e profissional, empreendedorismo, finanças e investimentos. Também valorizo momentos com amigos. Me divirto com games, sempre equilibrando aprendizado e lazer.
 </p>
 <p>
   Acredito que as conexões são uma oportunidade para crescer, aprender e compartilhar experiências. Estou sempre disposto a aprender com novas perspectivas e compartilhar experiências que possam agregar tanto no meu desenvolvimento quanto no de outras pessoas. Vamos nos conectar e trocar ideias!
 </p>
-
-
-
-
-
-
-
+<p>
+  <a href="https://github.com/alcamarano" target="_blank" title="Github">
+    <img src="https://skillicons.dev/icons?i=github">
+  </a>
+  <a href="https://www.linkedin.com/in/alcamarano/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+</p>
