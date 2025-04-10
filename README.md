@@ -1,17 +1,17 @@
 <p>
-  Desenvolvedor Front-end | HTML | CSS | Javascript | Python
-</p>
-<p>
-  Sou Augusto Lima Camarano, desenvolvedor front-end em formação, apaixonado por tecnologia e pela criação de interfaces intuitivas e funcionais. Tenho conhecimento em HTML, CSS, JavaScript e Python e estou sempre buscando evoluir.
+  Desenvolvedor Front-end em formação, movido pela paixão por tecnologia e inovação.
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,figma,vscode,ps">
 </p>
 <p>
-  Além da tecnologia, gosto de esportes, games, viagens e leitura, especialmente sobre desenvolvimento pessoal, empreendedorismo e finanças. Acredito que boas conexões impulsionam o aprendizado e o crescimento, por isso, estou sempre aberto a trocar experiências.
+  Sou uma pessoa curiosa e dedicada, que valoriza o poder do conhecimento e acredita que o desenvolvimento pessoal anda lado a lado com a evolução profissional. No meu dia a dia, cultivo hábitos como a leitura - especialmente sobre tecnologia, empreendedorismo, finanças e crescimento pessoal e profissional - além da prática de esportes, que me ajudam a manter o foco, a saúde e a disciplina.
 </p>
 <p>
-  Se você busca um profissional motivado e em constante evolução, vamos conversar! 🚀
+  Acredito que boas conexões aceleram o crescimento. Por isso, estou sempre aberto a trocar experiências, aprender com outros profissionais e contribuir.
+</p>
+<p>
+  Se você quiser alguém motivado, com sede de aprendizado e vontade real de crescer na área, vamos conversar.
 </p>
 <p>
   <a href="https://www.linkedin.com/in/alcamarano/" target="_blank" title="LinkedIn">
