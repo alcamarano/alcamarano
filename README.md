@@ -7,17 +7,3 @@ Apaixonado por inovação, motivado por desafios e sempre aberto a aprender, evo
 ## 💻 Tecnologias e ferramentas que utilizo
 
 [![](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma)](https://skillicons.dev)
-
-## 🌐 Minhas redes sociais
-
-<a href="https://www.linkedin.com/in/alcamarano/">
-  <img src="https://skillicons.dev/icons?i=linkedin">
-</a>
-
-<a href="https://www.instagram.com/alcamarano/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-
-<a href="https://x.com/alcamarano">
-  <img src="https://skillicons.dev/icons?i=twitter">
-</a>
