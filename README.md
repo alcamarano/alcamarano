@@ -4,4 +4,4 @@ Bem-vindo(a) ao meu portfólio! Aqui compartilho um pouco da minha jornada no mu
 
 ## 💻 Tecnologias e ferramentas que utilizo
 
-[![](https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma)](https://skillicons.dev)
